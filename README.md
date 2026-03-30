@@ -51,7 +51,24 @@ This project is licensed under the Apache License 2.0. This license allows for c
 🤝 Contribution & Citation
 This project is an ongoing exploration into Physical AI. If you use this architecture in your research, please cite it as the Dubosson-Unified-Field Regulator (2025/26).
 
- markdown
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1dnunAFiyBc3bKgbGK7hc_mbFuKeOJDS2#scrollTo=n_7_asqule2e&line=86&uniqifier=1)
+  markdown
+# 🧬 Dubosson 3D Engine
+
+Experience the **Dubosson-Feynman Regulator** in action. This interactive simulation demonstrates 3D structural stabilization using Verlet integration.
+
+### 🚀 Launch the Simulation
+Click the badge below or use the direct link:
+
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1dnunAFiyBc3bKgbGK7hc_mbFuKeOJDS2?usp=sharing)
+
+**Direct Link:**  
+https://colab.research.google.com/drive/1dnunAFiyBc3bKgbGK7hc_mbFuKeOJDS2?usp=sharing
+
+### 🛠️ Instructions
+1. Open the link above.
+2. Run the **first cell** to set up the environment.
+3. Run the **simulation cell** to see the 3D rendering.
+
+ 
 
 
