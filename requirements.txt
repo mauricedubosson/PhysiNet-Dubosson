@@ -1,0 +1,16 @@
+# --- Core Deep Learning ---
+torch>=2.0.0
+numpy>=1.24.0
+
+# --- Visualization & Bio-informatics ---
+matplotlib>=3.7.0
+# py3Dmol est nécessaire pour le rendu des protéines en 3D dans Colab/Jupyter
+py3Dmol>=2.0.0
+
+# --- Feynman AI / Symbolic Regression ---
+# PySR est l'implémentation standard pour la régression symbolique (Feynman-style)
+pysr>=0.16.0
+sympy>=1.12
+
+# --- Utilities ---
+typing-extensions>=4.5.0
