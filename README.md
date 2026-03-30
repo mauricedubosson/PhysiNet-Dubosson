@@ -51,5 +51,7 @@ This project is licensed under the Apache License 2.0. This license allows for c
 🤝 Contribution & Citation
 This project is an ongoing exploration into Physical AI. If you use this architecture in your research, please cite it as the Dubosson-Unified-Field Regulator (2025/26).
 
----markdown
-[![Open In Colab](https://colab.research.google.com)]([https://colab.research.google.com](https://colab.research.google.com/drive/1dnunAFiyBc3bKgbGK7hc_mbFuKeOJDS2#scrollTo=n_7_asqule2e&line=86&uniqifier=1)
+ markdown
+[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/drive/1dnunAFiyBc3bKgbGK7hc_mbFuKeOJDS2#scrollTo=n_7_asqule2e&line=86&uniqifier=1)
+
+
